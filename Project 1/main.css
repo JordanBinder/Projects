@@ -1,0 +1,29 @@
+body {
+  background:#999;
+  font-family: Helvetica;
+}
+
+h1, h2, p, li {
+  color:#444;
+}
+
+a {
+  color: green;
+}
+
+p {
+  background: #666;
+  color: white;
+  padding: 20px;
+}
+
+.secondary {
+  background: #750;
+  color:purple;
+  padding: 50px;
+}
+
+#special {
+  color: pink;
+  padding: 200px;
+}
